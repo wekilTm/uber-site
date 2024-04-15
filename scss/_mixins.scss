@@ -1,0 +1,12 @@
+// =btn_hover{   knopkan ustine baranda swedini uytgedyar
+//     &:hover{
+//         background-image: none;
+//         background-color: #1eacc7;
+//     }
+// }
+@mixin divider {
+    width: 299px;
+    height: 4px;
+    background-color: #1eacc7;
+    margin: 15px auto 30px;
+}
